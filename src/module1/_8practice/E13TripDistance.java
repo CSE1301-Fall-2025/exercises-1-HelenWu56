@@ -9,5 +9,9 @@ public class E13TripDistance {
        // Your code should use the variables
        // numGallons, milesPerGallon, and miles
        // and print out miles
+       double numGallons = 10 * 0.75;
+       int milesPerGallon = 32;
+       double miles = numGallons * milesPerGallon;
+       System.out.println(miles);
     }
 }
