@@ -10,5 +10,9 @@ public class E02ForLoopFromWhile {
 			System.out.println(count);
 			count++;
 		}
+		System.out.println();
+		for (int c = 5; c <= 10; c++){
+			System.out.println(c);
+		}
 	}
 }

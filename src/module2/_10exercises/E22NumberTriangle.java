@@ -8,8 +8,14 @@ public class E22NumberTriangle {
 	//333
 	//22
 	//1
-	
 	//Use loops to accomplish this!
+	
     public static void main(String[] args) {
+		for(int x = 5; x >= 1; x--){
+			 for (int y = 0; y < x; y++) {
+                System.out.print(x);
+            }
+            System.out.println();
+		}
     }
 }

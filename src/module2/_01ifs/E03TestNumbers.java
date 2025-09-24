@@ -17,5 +17,9 @@ public class E03TestNumbers {
 		if (number == 0) {
 			System.out.println(number + " is zero!");
 		}
+
+		if (number < 0){
+			System.out.println(number + " is negative!");
+		}
 	}
 }

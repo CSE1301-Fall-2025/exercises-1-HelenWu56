@@ -13,10 +13,16 @@ public class E03IncrementLoop {
 			System.out.println("New val: " + val);
 		}
 		// Print out array to see if they really changed
+
+		for (int i = 0; i < values.length; i++) {
+			values[i]++;
+		}
+
 		System.out.println("Array after the loop: ");
 		for (int v : values) {
 			System.out.print(v + " ");
 		}
+		
 	}
 }
 

@@ -8,7 +8,14 @@ public class E03BatteryTest {
 	//and "All okay!" otherwise. Test all three situations.
 	public static void main(String[] args) {
 		int battery = 60;
-
+		if (battery > 100){
 		System.out.println("All okay!");
+		}
+		else if (battery < 50){
+			System.out.println("Unplug your phone!");
+		}
+		else{
+			System.out.println("Plug in your phone!");
+		}
 	}
 }

@@ -10,5 +10,9 @@ public class E09LoopRewrite2 {
             System.out.println(x);
             x = x + 1;
         }
+
+        for(int y = 5; y<=15; y++){
+            System.out.println(y);
+        }
     }
 }

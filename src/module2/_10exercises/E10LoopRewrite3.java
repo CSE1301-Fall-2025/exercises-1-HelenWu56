@@ -7,5 +7,11 @@ public class E10LoopRewrite3 {
     public static void main(String[] args) {
         for (int x = 10; x <= 100; x=x+10)
             System.out.println(x);
+        
+            int x = 10;
+        while (x <= 100){
+            System.out.println(x);
+            x+=10;
+        }
     }
 }

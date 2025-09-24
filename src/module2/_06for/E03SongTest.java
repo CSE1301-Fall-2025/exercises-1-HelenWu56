@@ -7,10 +7,10 @@ public class E03SongTest {
 	public static void main(String[] args) {
 		String line1 = " bottles of pop on the wall";
 		String line2 = " bottles of pop";
-		String line3 = "Take one down and pass it around";
+		String line3 = "Take two down and pass it around";
 
 		// loop 5 times (5, 4, 3, 2, 1)
-		for (int i = 5; i > 0; i--) {
+		for (int i = 3; i > 0; i--) {
 			System.out.println(i + line1);
 			System.out.println(i + line2);
 			System.out.println(line3);

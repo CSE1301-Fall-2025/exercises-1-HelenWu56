@@ -1,0 +1,931 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "E01HelloExample",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E01HelloExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02PoemExample",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E02PoemExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03HelloExample2",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E03HelloExample2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04CalculationExample",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E04CalculationExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05CalculationErrorPrint",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E05CalculationErrorPrint",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E06CalculateBillTotal",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E06CalculateBillTotal",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E07Error1",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E07Error1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E08Error2",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E08Error2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E09Error3",
+            "request": "launch",
+            "mainClass": "module1._1whyjava.E09Error3",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01VariableAssignment",
+            "request": "launch",
+            "mainClass": "module1._2variables.E01VariableAssignment",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02StringConcatenation",
+            "request": "launch",
+            "mainClass": "module1._2variables.E02StringConcatenation",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03StringConcatenation2",
+            "request": "launch",
+            "mainClass": "module1._2variables.E03StringConcatenation2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01VariableAssignment(1)",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E01VariableAssignment",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02CalculateMoney",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E02CalculateMoney",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03SalaryExample",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E03SalaryExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04UpdateScore",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E04UpdateScore",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05OperatorExample",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E05OperatorExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E06TestCompound",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E06TestCompound",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E07ModExample",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E07ModExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E08PizzaCalculator",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E08PizzaCalculator",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E09NameReader",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E09NameReader",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E10AgeReader",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E10AgeReader",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E11PizzaCalculatorInput",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E11PizzaCalculatorInput",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E12SumInput",
+            "request": "launch",
+            "mainClass": "module1._3expressions.E12SumInput",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01ShortcutOperators",
+            "request": "launch",
+            "mainClass": "module1._4compound.E01ShortcutOperators",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02PostfixExample",
+            "request": "launch",
+            "mainClass": "module1._4compound.E02PostfixExample",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01OperatorTest",
+            "request": "launch",
+            "mainClass": "module1._5casting.E01OperatorTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02NearestInt",
+            "request": "launch",
+            "mainClass": "module1._5casting.E02NearestInt",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03TestOverflow",
+            "request": "launch",
+            "mainClass": "module1._5casting.E03TestOverflow",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Equality",
+            "request": "launch",
+            "mainClass": "module1._6boolean.E01Equality",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02RelationalOperators",
+            "request": "launch",
+            "mainClass": "module1._6boolean.E02RelationalOperators",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03BooleanMod",
+            "request": "launch",
+            "mainClass": "module1._6boolean.E03BooleanMod",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04BooleanExpressions",
+            "request": "launch",
+            "mainClass": "module1._6boolean.E04BooleanExpressions",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Random",
+            "request": "launch",
+            "mainClass": "module1._7math.E01Random",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02RandomRange",
+            "request": "launch",
+            "mainClass": "module1._7math.E02RandomRange",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Rectangle",
+            "request": "launch",
+            "mainClass": "module1._8practice.E01Rectangle",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02Triangle",
+            "request": "launch",
+            "mainClass": "module1._8practice.E02Triangle",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03Soccer",
+            "request": "launch",
+            "mainClass": "module1._8practice.E03Soccer",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04Color",
+            "request": "launch",
+            "mainClass": "module1._8practice.E04Color",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05Age",
+            "request": "launch",
+            "mainClass": "module1._8practice.E05Age",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E06Pizza",
+            "request": "launch",
+            "mainClass": "module1._8practice.E06Pizza",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E07BookAndMovie",
+            "request": "launch",
+            "mainClass": "module1._8practice.E07BookAndMovie",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E08MilesPerGallon1",
+            "request": "launch",
+            "mainClass": "module1._8practice.E08MilesPerGallon1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E09MilesPerGallon2",
+            "request": "launch",
+            "mainClass": "module1._8practice.E09MilesPerGallon2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E10Clearance",
+            "request": "launch",
+            "mainClass": "module1._8practice.E10Clearance",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E11Days",
+            "request": "launch",
+            "mainClass": "module1._8practice.E11Days",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E12Savings",
+            "request": "launch",
+            "mainClass": "module1._8practice.E12Savings",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E13TripDistance",
+            "request": "launch",
+            "mainClass": "module1._8practice.E13TripDistance",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E14Seconds",
+            "request": "launch",
+            "mainClass": "module1._8practice.E14Seconds",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E15ChickenWings",
+            "request": "launch",
+            "mainClass": "module1._8practice.E15ChickenWings",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01TestRaining",
+            "request": "launch",
+            "mainClass": "module2._01ifs.E01TestRaining",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02TestMidterm",
+            "request": "launch",
+            "mainClass": "module2._01ifs.E02TestMidterm",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03TestNumbers",
+            "request": "launch",
+            "mainClass": "module2._01ifs.E03TestNumbers",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04PizzaCalculatorInput",
+            "request": "launch",
+            "mainClass": "module2._01ifs.E04PizzaCalculatorInput",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05TestCold",
+            "request": "launch",
+            "mainClass": "module2._01ifs.E05TestCold",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01DriversTest",
+            "request": "launch",
+            "mainClass": "module2._02ifelse.E01DriversTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02TestMidterm(1)",
+            "request": "launch",
+            "mainClass": "module2._02ifelse.E02TestMidterm",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03ScoreTest",
+            "request": "launch",
+            "mainClass": "module2._02ifelse.E03ScoreTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04DanglingElseTest",
+            "request": "launch",
+            "mainClass": "module2._02ifelse.E04DanglingElseTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01TestElseIf",
+            "request": "launch",
+            "mainClass": "module2._03elseif.E01TestElseIf",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02IfDebug",
+            "request": "launch",
+            "mainClass": "module2._03elseif.E02IfDebug",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03BatteryTest",
+            "request": "launch",
+            "mainClass": "module2._03elseif.E03BatteryTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Chores",
+            "request": "launch",
+            "mainClass": "module2._04compound.E01Chores",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02Transportation",
+            "request": "launch",
+            "mainClass": "module2._04compound.E02Transportation",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03ScoreRange",
+            "request": "launch",
+            "mainClass": "module2._04compound.E03ScoreRange",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04Homework",
+            "request": "launch",
+            "mainClass": "module2._04compound.E04Homework",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01LoopComponents",
+            "request": "launch",
+            "mainClass": "module2._05while.E01LoopComponents",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02LoopErrors",
+            "request": "launch",
+            "mainClass": "module2._05while.E02LoopErrors",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01ForLoop",
+            "request": "launch",
+            "mainClass": "module2._06for.E01ForLoop",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02ForLoopFromWhile",
+            "request": "launch",
+            "mainClass": "module2._06for.E02ForLoopFromWhile",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03SongTest",
+            "request": "launch",
+            "mainClass": "module2._06for.E03SongTest",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04ForLoopBackwards",
+            "request": "launch",
+            "mainClass": "module2._06for.E04ForLoopBackwards",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01FindAndReplace",
+            "request": "launch",
+            "mainClass": "module2._07strings.E01FindAndReplace",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02ReverseString",
+            "request": "launch",
+            "mainClass": "module2._07strings.E02ReverseString",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01NestedLoops",
+            "request": "launch",
+            "mainClass": "module2._08nested.E01NestedLoops",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Trace",
+            "request": "launch",
+            "mainClass": "module2._09analysis.E01Trace",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02CountLoop",
+            "request": "launch",
+            "mainClass": "module2._09analysis.E02CountLoop",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03NestedLoops",
+            "request": "launch",
+            "mainClass": "module2._09analysis.E03NestedLoops",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01PrintEven",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E01PrintEven",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02CheckGuess",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E02CheckGuess",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03Chores",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E03Chores",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04TestRange",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E04TestRange",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05PositiveNegativeZero",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E05PositiveNegativeZero",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E06Fever",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E06Fever",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E07Temperature",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E07Temperature",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E08LoopRewrite1",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E08LoopRewrite1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E09LoopRewrite2",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E09LoopRewrite2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E10LoopRewrite3",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E10LoopRewrite3",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E11Errors1",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E11Errors1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E12Errors2",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E12Errors2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E13Errors3",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E13Errors3",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E14Countdown",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E14Countdown",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E15EvenOdd",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E15EvenOdd",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E16Multiply",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E16Multiply",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E17Message",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E17Message",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E18MessageX",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E18MessageX",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E19CountX",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E19CountX",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E20Rectangle5x3",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E20Rectangle5x3",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E21Rectangle3x5",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E21Rectangle3x5",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E22NumberTriangle",
+            "request": "launch",
+            "mainClass": "module2._10exercises.E22NumberTriangle",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01EmptyArrayDeclaration",
+            "request": "launch",
+            "mainClass": "module3._1basics.E01EmptyArrayDeclaration",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02InitializerList",
+            "request": "launch",
+            "mainClass": "module3._1basics.E02InitializerList",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03ArrayAccess",
+            "request": "launch",
+            "mainClass": "module3._1basics.E03ArrayAccess",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04ParallelArrays",
+            "request": "launch",
+            "mainClass": "module3._1basics.E04ParallelArrays",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01Trace1",
+            "request": "launch",
+            "mainClass": "module3._2traversing.E01Trace1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02Trace2",
+            "request": "launch",
+            "mainClass": "module3._2traversing.E02Trace2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03OffByone",
+            "request": "launch",
+            "mainClass": "module3._2traversing.E03OffByone",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01ForEachDemo",
+            "request": "launch",
+            "mainClass": "module3._3foreach.E01ForEachDemo",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02EvenLoop",
+            "request": "launch",
+            "mainClass": "module3._3foreach.E02EvenLoop",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03IncrementLoop",
+            "request": "launch",
+            "mainClass": "module3._3foreach.E03IncrementLoop",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01TicketInfo",
+            "request": "launch",
+            "mainClass": "module3._4twodimensional.E01TicketInfo",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02TwoDArraySet",
+            "request": "launch",
+            "mainClass": "module3._4twodimensional.E02TwoDArraySet",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03TwoDArrayInitGet",
+            "request": "launch",
+            "mainClass": "module3._4twodimensional.E03TwoDArrayInitGet",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "module3._5traversing2d.Average",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E012DArrayTraversal",
+            "request": "launch",
+            "mainClass": "module3._5traversing2d.E012DArrayTraversal",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02ColumnMajorTraversal",
+            "request": "launch",
+            "mainClass": "module3._5traversing2d.E02ColumnMajorTraversal",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E01PrintBackwards",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E01PrintBackwards",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E02RewriteLoop",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E02RewriteLoop",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E03PrintOdd",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E03PrintOdd",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E04PrintOddIndices",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E04PrintOddIndices",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E05Initialize2DArray",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E05Initialize2DArray",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E06PrintNums",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E06PrintNums",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E07PrintRowsAndCols",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E07PrintRowsAndCols",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E08Print2DArray",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E08Print2DArray",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E09Colors",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E09Colors",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E10Count7",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E10Count7",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E11SumSecondRow",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E11SumSecondRow",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E12SumDiagonal",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E12SumDiagonal",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E13CreateArray1",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E13CreateArray1",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E14CreateArray2",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E14CreateArray2",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        },
+        {
+            "type": "java",
+            "name": "E15Replace",
+            "request": "launch",
+            "mainClass": "module3._6exercises.E15Replace",
+            "projectName": "exercises-1-HelenWu56_b1b8939a"
+        }
+    ]
+}
