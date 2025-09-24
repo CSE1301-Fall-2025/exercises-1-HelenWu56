@@ -7,6 +7,10 @@ public class E11SumSecondRow {
 		int[][] table = { {1,4,9},{11,4,3},{2,2,3} };
 
 		//ADD CODE HERE
-
+		int sum = 0;
+			for(int j=0; j<table[0].length; j++){
+				sum = sum + table[1][j];
+			}
+			System.out.println("Sum of second row: " + sum);
 	}
 }

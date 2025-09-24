@@ -8,10 +8,10 @@ public class E07PrintRowsAndCols {
         String[][] arr = { {"hello","there","world"},
                           {"how","are","you"} };
 
-        System.out.println("Rows:");
+        System.out.println("Rows: " + arr.length);
         // ADD CODE TO PRINT NUMBER OF ROWS HERE //
 
-        System.out.println("Columns:");
+        System.out.println("Columns: " + arr[0].length);
         // ADD CODE TO PRINT NUMBER OF COLUMNS HERE //
 
     }
