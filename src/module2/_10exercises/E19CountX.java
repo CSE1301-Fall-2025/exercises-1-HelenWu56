@@ -5,5 +5,12 @@ public class E19CountX {
 	//"x"s in the String. Use indexOf() with a loop.
     public static void main(String[] args) {
         String message = "xyxxzax";
+        int count = 0;
+        int index = message.indexOf("x");
+        while(index >= 0){
+            count++;
+            index = message.indexOf("x", index+1);
+        }
+        System.out.println("Number of x's: " + count);
     }
 }
